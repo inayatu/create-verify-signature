@@ -1,0 +1,33 @@
+{
+  "name": "create-verify-signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "signature",
+    "api-keys",
+    "nodejs-signature",
+    "create signature"
+  ],
+  "author": "Inayat Ullah <zerak94@gmail.com>",
+  "homepage": "http://github.com/inayatu/create-verify-signature.git",
+  "contributors": [
+    {
+      "name": "Inayat Ullah",
+      "email": "zerak94@gmail.com",
+      "url": "https://github.com/inayatu"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/inayatu/create-verify-signature.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
